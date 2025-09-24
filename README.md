@@ -9,6 +9,14 @@ En el reto 1 nos piden desarrollar una serie de ejercicios prácticos en Python,
 4.Escribir una función que reciba una lista de números enteros y retorne la mayor suma entre dos elementos consecutivos.
 5.Escribir una función que reciba una lista de string y retorne unicamente aquellos elementos que tengan los mismos caracteres. e.g. entrada: ["amor", "roma", "perro"], salida ["amor", "roma"].
 La solucion a cada ejercicio se podra encontrar en cada archivo que lleve el nombre del ejercicio correspondiente.
+# RETO 2
+## ¿ en que consiste el reto 2?
+Problema PLanteado:
+Elija un problema de la vida real (sistema de gestión de biblioteca, negocio de compra-venta, automóvil, etc) que se pueda modelar a través de objetos y clases. Plantee las relaciones de clases, composiciones, propiedades y comportamientos del sistema en uno mas diagramas tipo UML.
+## Solucion 
+Un sistema UML de compra y venta de videojuegos.
+<img width="751" height="731" alt="reto 2 drawio" src="https://github.com/user-attachments/assets/53b889a8-cbf0-42af-b265-2b7dd63cf5b2" />
+
 
 Cristian David Ramirez Plazas.
 T:i : 1014668499.
