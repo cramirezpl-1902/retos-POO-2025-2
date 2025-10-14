@@ -30,6 +30,11 @@ Cree un diagrama de clases con todas las clases y sus relaciones. El menú debe 
 
 # RETO 4 
 entrega del reto 4 del curso de poo.
+## RESTAURANTE RETO 4
+Agrega setters y getters a todas las subclases de los elementos del menú.
 
+Sobrescribe el método calcular_precio_total() (o calculate_total_price()) de acuerdo con la composición del pedido (por ejemplo, si el pedido incluye un plato principal, aplica algún descuento en las bebidas).
+
+Agrega la clase Pago() (Payment()) siguiendo el ejemplo de clase proporcionado.
 Cristian David Ramirez Plazas.
 T:i : 1014668499.
