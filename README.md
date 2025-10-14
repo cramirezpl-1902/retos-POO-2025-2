@@ -18,5 +18,9 @@ Un sistema UML de compra y venta de videojuegos.
 <img width="751" height="731" alt="reto 2 drawio" src="https://github.com/user-attachments/assets/53b889a8-cbf0-42af-b265-2b7dd63cf5b2" />
 
 
+
+# RETO 4 
+entrega del reto 4 del curso de poo.
+
 Cristian David Ramirez Plazas.
 T:i : 1014668499.
