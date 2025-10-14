@@ -17,7 +17,16 @@ Elija un problema de la vida real (sistema de gestión de biblioteca, negocio de
 Un sistema UML de compra y venta de videojuegos.
 <img width="751" height="731" alt="reto 2 drawio" src="https://github.com/user-attachments/assets/53b889a8-cbf0-42af-b265-2b7dd63cf5b2" />
 
+# RETO 3
+1.Escenario de restaurante: desea diseñar un programa para calcular la factura del pedido de un cliente en un restaurante.
 
+-Definir una clase base MenuItem: Esta clase debe tener atributos como nombre, precio y un método para calcular el precio total.
+
+-Cree subclases para diferentes tipos de elementos de menú: herede de MenuItem y defina propiedades específicas para cada tipo (por ejemplo, Bebida, Aperitivo, Plato principal).
+
+-Definir una clase Order: Esta clase debe tener una lista de objetos MenuItem y métodos para agregar artículos, calcular el monto total de la factura y potencialmente aplicar descuentos específicos según la composición del pedido.
+
+Cree un diagrama de clases con todas las clases y sus relaciones. El menú debe tener al menos 10 elementos. El código debe seguir las reglas PEP8.
 
 # RETO 4 
 entrega del reto 4 del curso de poo.
